@@ -1,0 +1,152 @@
+{
+    "Germany": {
+      "space_rank": 1,
+      "space_tech": "Germany is known for its advanced technological capabilities and has made significant contributions to space missions and satellite technologies. It is home to major aerospace companies and research institutions.",
+      "member_state_european_space_agency": true,
+      "member_state_schengen_countries": true,
+      "member_state_european_union": true,
+      "member_state_nato": true,
+      "range_housing_cost": {
+        "min": 1000,
+        "max": 2000,
+        "currency": "€",
+        "size_of_apartment": "square meters",
+        "unit_of_time": "per month"
+      },
+      "currency_unit": "Euro",
+      "currency_sign": "€",
+      "range_cost_groceries": {
+        "min": 250,
+        "max": 500,
+        "currency": "€",
+        "unit_of_time": "per month",
+        "food_unit": "items"
+      },
+      "rate_of_divorce": 39.5
+    },
+    "France": {
+      "space_rank": 2,
+      "space_tech": "France has a long history of space exploration and has played a crucial role in the development of launch vehicles, satellites, and space research. It is home to the Centre National d'Etudes Spatiales (CNES), the French space agency.",
+      "member_state_european_space_agency": true,
+      "member_state_schengen_countries": true,
+      "member_state_european_union": true,
+      "member_state_nato": true,
+      "range_housing_cost": {
+        "min": 1200,
+        "max": 2500,
+        "currency": "€",
+        "size_of_apartment": "square meters",
+        "unit_of_time": "per month"
+      },
+      "currency_unit": "Euro",
+      "currency_sign": "€",
+      "range_cost_groceries": {
+        "min": 300,
+        "max": 600,
+        "currency": "€",
+        "unit_of_time": "per month",
+        "food_unit": "items"
+      },
+      "rate_of_divorce": 55.7
+    },
+    "Italy": {
+      "space_rank": 3,
+      "space_tech": "Italy has made significant advancements in space technology, particularly in satellite manufacturing and launch services. It is home to Thales Alenia Space, a major player in the European space industry.",
+      "member_state_european_space_agency": true,
+      "member_state_schengen_countries": true,
+      "member_state_european_union": true,
+      "member_state_nato": true,
+      "range_housing_cost": {
+        "min": 900,
+        "max": 1800,
+        "currency": "€",
+        "size_of_apartment": "square meters",
+        "unit_of_time": "per month"
+      },
+      "currency_unit": "Euro",
+      "currency_sign": "€",
+      "range_cost_groceries": {
+        "min": 200,
+        "max": 400,
+        "currency": "€",
+        "unit_of_time": "per month",
+        "food_unit": "items"
+      },
+      "rate_of_divorce": 42.5
+    },
+    "United Kingdom": {
+      "space_rank": 4,
+      "space_tech": "The UK has been actively investing in space technology and has a thriving space industry. It has contributed to various space missions and has expertise in satellite technology and Earth observation.",
+      "member_state_european_space_agency": true,
+      "member_state_schengen_countries": false,
+      "member_state_european_union": true,
+      "member_state_nato": true,
+      "range_housing_cost": {
+        "min": 900,
+        "max": 2000,
+        "currency": "£",
+        "size_of_apartment": "square meters",
+        "unit_of_time": "per month"
+      },
+      "currency_unit": "Pound Sterling",
+      "currency_sign": "£",
+      "range_cost_groceries": {
+        "min": 300,
+        "max": 600,
+        "currency": "£",
+        "unit_of_time": "per month",
+        "food_unit": "items"
+      },
+      "rate_of_divorce": 43.1
+    },
+    "Spain": {
+      "space_rank": 5,
+      "space_tech": "Spain has been expanding its involvement in space activities, including satellite development and Earth observation missions. It has several research institutions and companies focused on space technology.",
+      "member_state_european_space_agency": true,
+      "member_state_schengen_countries": true,
+      "member_state_european_union": true,
+      "member_state_nato": true,
+      "range_housing_cost": {
+        "min": 800,
+        "max": 1500,
+        "currency": "€",
+        "size_of_apartment": "square meters",
+        "unit_of_time": "per month"
+      },
+      "currency_unit": "Euro",
+      "currency_sign": "€",
+      "range_cost_groceries": {
+        "min": 200,
+        "max": 400,
+        "currency": "€",
+        "unit_of_time": "per month",
+        "food_unit": "items"
+      },
+      "rate_of_divorce": 57.2
+    },
+    "Netherlands": {
+      "space_rank": 6,
+      "space_tech": "The Netherlands has made notable contributions to space science and technology, particularly in the field of space research and satellite development. It is home to the Netherlands Space Office (NSO).",
+      "member_state_european_space_agency": true,
+      "member_state_schengen_countries": true,
+      "member_state_european_union": true,
+      "member_state_nato": true,
+      "range_housing_cost": {
+        "min": 1200,
+        "max": 2500,
+        "currency": "€",
+        "size_of_apartment": "square meters",
+        "unit_of_time": "per month"
+      },
+      "currency_unit": "Euro",
+      "currency_sign": "€",
+      "range_cost_groceries": {
+        "min": 300,
+        "max": 600,
+        "currency": "€",
+        "unit_of_time": "per month",
+        "food_unit": "items"
+      },
+      "rate_of_divorce": 38.1
+    }
+}
